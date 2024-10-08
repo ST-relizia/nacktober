@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    border: 4px solid yellow;
+    text-decoration-style: dotted;
+    text-decoration: underline white;
+}
+
+img {
+    border: 5px solid red;
+}
+div{
+    font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+  color: white;
+  margin-left: 25%;
+  width: 50%;
+  text-align: center
+  ;
+}
+div img{
+    width: 100%;
+    margin: 10px;
+}
